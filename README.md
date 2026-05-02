@@ -1,4 +1,18 @@
-# my-academic-profile-test
-alice
-fpr g8it fdpe ahafhasoifh
-01-01-1997
+# My Academic Profile
+
+## Full Name
+Rasesh Tongia
+
+## Department
+Computer Science
+
+## Courses Taught
+- DSA
+- DBMS
+
+## Research Interests
+- Artificial Intelligence
+- Data Science
+
+## Experience
+- 5 years teaching experience
