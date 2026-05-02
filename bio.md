@@ -1,6 +1,6 @@
 # My Academic Profile
 
-## Name
+## Full Name
 Rasesh Tongia
 
 ## Department
